@@ -1,0 +1,13 @@
+{
+  "title": "The Blue Room",
+  "handle": "blue-room",
+  "composer": "Richard Rogers",
+  "genre": "Med.",
+  "description": "First published in 1926",
+  "versions": [
+    {
+      "name": "med",
+      "version": "1"
+    }
+  ]
+}

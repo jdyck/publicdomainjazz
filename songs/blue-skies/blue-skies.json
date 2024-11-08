@@ -1,0 +1,13 @@
+{
+  "title": "Blue Skies",
+  "handle": "blue-skies",
+  "composer": "Irving Berline",
+  "genre": "Med.",
+  "description": "First published in 1927.",
+  "versions": [
+    {
+      "name": "med",
+      "version": "1"
+    }
+  ]
+}

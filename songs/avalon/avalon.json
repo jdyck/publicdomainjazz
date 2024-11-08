@@ -1,0 +1,13 @@
+{
+  "title": "Avalon",
+  "handle": "avalon",
+  "composer": "Vincent Rose",
+  "genre": "Jazz",
+  "description": "First published in 1920.",
+  "versions": [
+    {
+      "name": "F",
+      "version": "1"
+    }
+  ]
+}

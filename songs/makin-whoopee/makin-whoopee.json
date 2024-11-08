@@ -1,0 +1,13 @@
+{
+  "title": "Makin’ Whoopee",
+  "handle": "makin-whoopee",
+  "composer": "Walter Donaldson",
+  "genre": "Med.",
+  "description": "First published in 1928.",
+  "versions": [
+    {
+      "name": "med",
+      "version": "1"
+    }
+  ]
+}
