@@ -5,6 +5,7 @@ R:(Med.)
 M:4/4
 L:1/4
 K:F
+%%staves [clef=treble key=none]
 "F6"CF-"Dm7"FD|"Gm7"CG-"C7"GD|"Fmaj7"CA-"Dm7"AD|"Gm7"CB-"C7"BD|
 "Cm7"Cc"F7"cc|"Bbmaj7"c/d/B-"Eb9"BG|"Dm7"FF"G7"F/G/A|"Gm7"C2-"C7"Cz||
 "F6"CF-"Dm7"FD|"Gm7"CG-"C7"GD|"Fmaj7"CA-"Dm7"AD|"Gm7"CB-"C7"BD|
