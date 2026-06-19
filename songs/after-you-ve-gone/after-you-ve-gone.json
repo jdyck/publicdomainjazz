@@ -1,17 +1,13 @@
 {
   "title": "After You've Gone",
   "handle": "after-you-ve-gone",
-  "composer": "Turner Layton",
+  "composer": "Turner Layton / Henry Creamer",
   "genre": "Swing",
-  "description": "test",
+  "description": "First published in 1918.",
   "versions": [
     {
-      "name": "Eb",
+      "name": "Bb",
       "version": "1"
-    },
-    {
-      "name": "test",
-      "version": "2"
     }
   ]
 }
