@@ -1,0 +1,17 @@
+{
+  "title": "Georgia on My Mind",
+  "handle": "georgia-on-my-mind",
+  "composer": "Hoagy Carmichael & Stuart Gorrell",
+  "genre": "Ballad",
+  "description": "First published in 1930.",
+  "versions": [
+    {
+      "name": "F Original Sheet Music",
+      "version": "1"
+    },
+        {
+      "name": "F",
+      "version": "2"
+    }
+  ]
+}
