@@ -1,0 +1,13 @@
+{
+  "title": "Tea for Two",
+  "handle": "tea-for-two",
+  "composer": "Vincent Youmans & Irving Caesar",
+  "genre": "Swing",
+  "description": "First published in 1924.",
+  "versions": [
+    {
+      "name": "Ab",
+      "version": "1"
+    }
+  ]
+}
