@@ -1,0 +1,17 @@
+{
+  "title": "I've Found a New Baby",
+  "handle": "ive-found-a-new-baby",
+  "composer": "Jack Palmer / Spencer Williams",
+  "genre": "Fast Swing",
+  "description": "First published in 1926.",
+  "versions": [
+    {
+      "name": "Eb",
+      "version": "1"
+    },
+    {
+      "name": "F",
+      "version": "2"
+    }
+  ]
+}
